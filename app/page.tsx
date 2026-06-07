@@ -17,7 +17,7 @@ export default function Page() {
       {/* Hero */}
       <Cover
         imageUrl="https://sb.frontend.co/storage/v1/object/public/app/projects/14dcacdd-5e00-4ff0-ae0f-56db1ae58bd6/images/HERO_1.jpg"
-        title="Customizable merch for your community"
+        title="Customize your merch for your F45 community"
         description="Explore our full collection of products, ranging from essentials to premium offerings, all in one place."
         buttons={[
           {
